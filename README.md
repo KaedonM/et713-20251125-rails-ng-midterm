@@ -1,0 +1,1 @@
+# et713-20251125-rails-ng-midterm
